@@ -1,0 +1,30 @@
+KMY Browser – Binary License Agreement
+
+Copyright (c) 2026 Krishnamohan Yagneswaran.
+All rights reserved.
+
+This software is provided as a precompiled executable (binary-only).
+The source code is not included and is not licensed for redistribution.
+
+PERMITTED USE
+- You may download and run this software for personal or commercial use.
+- You may redistribute the unmodified executable file.
+
+RESTRICTIONS
+- You may not reverse engineer, decompile, or disassemble this software.
+- You may not modify the executable.
+- You may not sell this software as your own product.
+- You may not claim authorship of this software.
+
+NO WARRANTY
+This software is provided "AS IS", without warranty of any kind.
+The author is not responsible for any damages, data loss, or issues
+arising from the use of this software.
+
+By using this software, you agree to these terms.
+
+Author:
+Krishnamohan Yagneswaran
+
+Official website:
+https://www.krishnamohanproductions.com
